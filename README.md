@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cause House 🌍
 
-## Getting Started
+Cause House is a web platform designed to support social causes and make it easier for people to discover and engage with meaningful initiatives.
 
-First, run the development server:
+## ✨ Features
+
+- Modern and responsive user interface
+- Clean and user-friendly design
+- Reusable UI components
+- Responsive layouts for different screen sizes
+- Built with modern web technologies
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js
+- **Language:** TypeScript
+- **UI:** React
+- **Styling:** CSS / Tailwind CSS (as configured in the project)
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/zaigham-ali-dev/cause-house.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd cause-house
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📁 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```text
+cause-house/
+├── app/
+├── components/
+├── public/
+├── package.json
+├── package-lock.json
+├── next.config.ts
+└── README.md
+```
 
-## Learn More
+## 💻 Development
 
-To learn more about Next.js, take a look at the following resources:
+You can start editing the application by modifying files inside the `app/` and `components/` directories.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👨‍💻 Developer
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Zaigham Ali**
 
-## Deploy on Vercel
+- GitHub: [@zaigham-ali-dev](https://github.com/zaigham-ali-dev)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is currently available for personal and educational purposes. Add a formal license if you intend to distribute it under specific terms.
